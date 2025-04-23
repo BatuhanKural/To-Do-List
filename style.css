@@ -19,7 +19,7 @@ body {
     max-width: 560px;
     width: 80%;
     background: #fff;
-    padding: 50px 30px;
+    padding: 50px 30px 0 30px;
     border-radius: 20px;
     margin-top: 100px;
     margin-bottom: 100px; 
@@ -99,3 +99,4 @@ body {
     color: #797979;
     text-decoration: line-through;
 }
+
