@@ -26,11 +26,15 @@ body {
     position: relative;
 }
 
-#to-do-card h2 {g
+#to-do-card h2 {
     display: flex;
     color: #764ba2;
     align-items: center;
     column-gap: 15px;
+}
+
+#to-do-card h2 i {
+    color: #667eea;
 }
 
 .input-row {
